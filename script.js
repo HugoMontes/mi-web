@@ -1,3 +1,3 @@
 function saludar(){
-	alert("Buenos dias...");
+	alert("Buenas noches...");
 }
